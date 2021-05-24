@@ -1,0 +1,1 @@
+A simple Bill Generator for an imaginary restaurant using Bootstrap and jQuery.
